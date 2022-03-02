@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    line-height: 1;
+    color: rgb(70, 101, 168);
+    text-align: center;
+    background-color: rgba(216, 191, 216, 0.486);
+}
+
+.col {
+    text-align: left;
+    background: transparent;
+}
+
+.text {
+    position: relative;
+    bottom: 30px;
+}
+
+.btn {
+    position: relative;
+    left: 375px;
+    bottom: 90px;
+}
+
+.row {
+    width: 800px;
+    height: 60px;
+    padding-bottom: 20px;
+}
+
+textarea {
+    width: 650px;
+    height: 65px;
+    background: transparent;
+}
