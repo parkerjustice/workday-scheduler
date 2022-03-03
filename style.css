@@ -42,3 +42,18 @@ textarea {
     height: 65px;
     background: transparent;
 }
+
+.past {
+    background-color: #F2EDDC;
+    color: white;
+  }
+
+.present {
+    background-color: #c8eb02;
+    color: white;
+  }
+  
+.future {
+    background-color: #5b0fe9;
+    color: white;
+  }
