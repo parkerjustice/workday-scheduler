@@ -22,7 +22,7 @@ function timeColor() {
 
 saveBtn.on("click", function() {
 
-    var time = document.getElementById(this).siblings(".col").text();
+    var time = document.getElementById(this).siblings(".hour").text();
     var plan = document.getElementById(this).siblings(".description").val();
 
     localStorage.setItem(time, plan);
