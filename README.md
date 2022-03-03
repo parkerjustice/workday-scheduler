@@ -6,6 +6,8 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
+https://github.com/parkerjustice/workday-scheduler/blob/main/Screen%20Shot%202022-03-02%20at%206.24.30%20PM.png
+
 WEBSITE
 https://parkerjustice.github.io/workday-scheduler/
 
